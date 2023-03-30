@@ -1,4 +1,4 @@
-//! To query & parse MySQL's INFORMATION_SCHEMA and construct a [`Schema`]
+//! To query & parse Postgres' INFORMATION_SCHEMA and construct a [`Schema`]
 
 use crate::debug_print;
 use crate::postgres::def::*;
